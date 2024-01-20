@@ -1,0 +1,18 @@
+{
+  "Name": "Palworld",
+  "PackageName": "PocketpairInc.Palworld_ad4psfrxyesvt",
+  "BaseNonXboxSaveLocation": "C:\\Users\\Palm\\Downloads\\Pal\\Saved\\SaveGames\\76561198176590699\\1217309647AABC19A03DC89D306A94DB\\",
+  "FileTranslations": [
+
+    {
+      "NonXboxFilename": "${FileName}.sav",
+      "XboxFileID": "Data",
+      "ContainerName1": "${Group}-${FileName}",
+      "ContainerName2": "${Group}-${FileName}",
+      "NamedRegexGroups": [
+        "(?<Group>[\\w\\-]+)",
+        "(?<FileName>[\\w]+)"
+      ]
+    }
+  ]
+}
