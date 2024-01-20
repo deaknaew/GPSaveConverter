@@ -4,7 +4,8 @@
      {
   "Name": "Palworld",
   "PackageName": "PocketpairInc.Palworld_ad4psfrxyesvt",
-  "BaseNonXboxSaveLocation": "%USERPROFILE%\\AppData\\LocalLow\\Pal\\Saved\\SaveGames\\76561198176590699\\1217309647AABC19A03DC89D306A94DB\\",
+  "BaseNonXboxSaveLocation": "%USERPROFILE%\\AppData\\LocalLow\\Pal\\Saved\\SaveGames\\<user-id_SteamID64>\\1217309647AABC19A03DC89D306A94DB\\",
+  "TargetProfileTypes": [ "Steam" ],
   "FileTranslations": []
 },
     {
