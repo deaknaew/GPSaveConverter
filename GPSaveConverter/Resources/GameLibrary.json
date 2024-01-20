@@ -4,9 +4,18 @@
      {
   "Name": "Palworld",
   "PackageName": "PocketpairInc.Palworld_ad4psfrxyesvt",
-  "BaseNonXboxSaveLocation": "%USERPROFILE%\\AppData\\LocalLow\\Pal\\Saved\\SaveGames\\<user-id_SteamID64>\\1217309647AABC19A03DC89D306A94DB\\",
+  "BaseNonXboxSaveLocation": "%USERPROFILE%\\AppData\\LocalLow\\Pal\\Saved\\SaveGames\\<user-id_SteamID64>",
   "TargetProfileTypes": [ "Steam" ],
-  "FileTranslations": []
+  "FileTranslations": [ {
+          "NonXboxFilename": "${Group}\\\\${FileName}",
+          "XboxFileID": "${FileName}",
+          "ContainerName1": "${Group}",
+          "ContainerName2": "${Group}",
+          "NamedRegexGroups": [
+            "(?<Group>[\\w\\-]+)",
+            "(?<FileName>[\\w\\-]+)"
+          ]
+        }]
 },
     {
       "PackageName": "7904SEGAEuropeLtd.TwoPointHospital-GamePass_zs7esxpzd8d5c",
