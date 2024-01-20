@@ -7,7 +7,7 @@
   "BaseNonXboxSaveLocation": "%USERPROFILE%\\AppData\\LocalLow\\Pal\\Saved\\SaveGames\\<user-id_SteamID64>",
   "TargetProfileTypes": [ "Steam" ],
   "FileTranslations": [ {
-          "NonXboxFilename": "${Group}\\${FileName}\\.sav",
+          "NonXboxFilename": "${Group}\\${FileName}\.sav",
           "XboxFileID": "Data",
           "ContainerName1": "${Group}-${FileName}",
           "ContainerName2": "${Group}-${FileName}",
