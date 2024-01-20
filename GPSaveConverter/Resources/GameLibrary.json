@@ -8,7 +8,7 @@
   "TargetProfileTypes": [ "Steam" ],
   "FileTranslations": [ {
           "NonXboxFilename": "${Group}\\\\${FileName}",
-          "XboxFileID": "${FileName}",
+          "XboxFileID": "Data",
           "ContainerName1": "${Group}",
           "ContainerName2": "${Group}",
           "NamedRegexGroups": [
